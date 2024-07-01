@@ -1,0 +1,23 @@
+* {
+    color: lightgreen;
+    /* display: block; */
+}
+.videoo {
+    border: 10px solid bisque;
+    border-radius: 10px;
+    /* background-color: blue; */
+    width: 500px;
+    align-items: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.audioo {
+    /* border: 10px solid bisque; */
+    border-radius: 10px;
+    /* background-color: blue; */
+    width: 500px;
+    align-items: center;
+    display: block;
+    margin: 0 auto;
+}
