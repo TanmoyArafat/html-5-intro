@@ -1,6 +1,8 @@
 * {
     color: lightgreen;
     /* display: block; */
+    /* margin: 4px;x */
+    background-color: black;
 }
 .videoo {
     border: 10px solid bisque;
@@ -10,6 +12,9 @@
     align-items: center;
     display: block;
     margin: 0 auto;
+    /* box-shadow: 10px 10px 7px; */
+    box-shadow: 0px 0px 10px 10px ;
+
 }
 
 .audioo {
@@ -20,4 +25,20 @@
     align-items: center;
     display: block;
     margin: 0 auto;
+    box-shadow: 0px 0px 10px 10px;
+}
+
+h3 {
+    /* background-color: bisque; */
+    /* padding: 20px; */
+    text-decoration: underline;
+    /* box-shadow: 10px 10px 15px darkblue; */
+    text-align: center;
+}
+
+#notes {
+    text-align: left;
+}
+nav > a {
+    text-decoration: none;
 }
