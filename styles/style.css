@@ -6,12 +6,12 @@
 }
 .videoo {
     border: 10px solid bisque;
-    border-radius: 10px;
+    border-radius: 20px;
     /* background-color: blue; */
     width: 500px;
     align-items: center;
     display: block;
-    margin: 0 auto;
+    margin: 20px auto;
     /* box-shadow: 10px 10px 7px; */
     box-shadow: 0px 0px 10px 10px ;
 
@@ -61,4 +61,16 @@ figure > img {
 
 section > p, h5 {
     text-align: center;
+}
+.putt {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    display: block;
+}
+#submit {
+    /* color: red; */
+    display: block;
+    margin-left: auto;
+    /* margin-bottom: 50%; */
+    /* margin-top: 50%; */
 }
